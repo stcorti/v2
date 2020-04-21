@@ -24,7 +24,7 @@ Saremo comunque raggiungibili agli indirizzi mail:
 
 Sarà anche possibile inviarci FAX al numero [050-2207731](tel:0502207731)
 
-In considerazione che nel rispetto del dettato normativo anche il ns. Studio ha adottato forme di _lavoro da casa_ non garantiamo di poter rispondere ai ns. numeri telefonici. In tal caso lasciate pure messaggi alla segreteria telefonica (tel [050-503754](tel:050503754)) che sarete ricontattati appena possibile.
+Nel rispetto del dettato normativo e delle conseguenti limitazioni anche lavorative, non garantiamo di poter rispondere ai ns. numeri telefonici (tel [050-503754](tel:050503754)) preferendo contatti per mail.
 
 Certi della massima comprensione e collaborazione, inviamo i ns. più cordiali saluti.
 
