@@ -1,0 +1,21 @@
+main:
+  - name: "Chi siamo"
+    url: "/chisiamo/"
+    weight: 2
+  - name: "Team"
+    url: "/team/"
+    weight: 3
+  - name: "Servizi"
+    url: "/servizi/"
+    weight: 4
+  - name: "Contatti"
+    url: "/contatti/"
+    weight: 5
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contatti"
+    url: "/contact/"
+    weight: 2

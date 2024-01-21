@@ -1,44 +1,55 @@
----
+baseurl: '/'
+permalink: pretty
+title: 'Studio Dott. Giorgio Corti'
+keywords: 'studio, corti, pisa, commercialista, revisioni, contabilita, tasse, azienda, cooperative, successioni'
+description: 'Sito dello studio Dott. Giorgio Corti - Commercialista e Revisore legale - Pisa, Italia'
 
-port: 4000
-host: 127.0.0.1
-safe: false
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  mobile_height: "32px"
+  mobile_width: "32px"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "32px"
+  desktop_width: "120px"
 
+home: 
+  limit_services: 6
 
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: /:title ## disables post output
-timezone: null
-lsi: false
-markdown: kramdown
+collections:
+  services:
+    output: true
+    sort_by: weight
+  team:
+    output: true
 
+defaults:
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
 
-### content configuration ###
-title:       "Studio Dott. Corti and Partners"
-keywords:    "studio, corti, pisa, commercialista, revisioni, contabilita, tasse, azienda, cooperative, successioni"
-description: "Sito dello studio Dott. Corti and Partners - Commercialista e Revisore legale - Pisa, Italia"
-source_link: 
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+sass:
+  style: compressed # possible values: nested expanded compact compressed
 
+plugins:
+  - jekyll-environment-variables
 
-### template colors, used site-wide via css ###
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
-  stblue1:   '#3e657f'
-  stblue2:   '#466d87'
-  stblue3:   '#015b7d'
-  stblue4:   '#80aac1'
-  stblue5:   '#e2ecf1'
-  stwhite:   '#ffffff'
-
-kramdown:
-  auto_ids:  false
-
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
+  - CNAME
+  - .gitignore
