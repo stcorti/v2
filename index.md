@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# STUDIO DOTT. GIORGIO CORTI
+# STUDIO <br/> DOTT. GIORGIO CORTI
 
 Commercialista e Revisore legale - Pisa, Italia

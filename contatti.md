@@ -16,15 +16,15 @@ Siamo a disposizione per rispondere a tutte le vostre domande e richieste di inf
 
 ## Orari di Apertura
 
-| Giorno       | Orario Apertura   |
-| ------------ | ----------------- |
-| Lunedì       | 9:00 - 12:30      |
-| Martedì      | 15:30 - 18:30     |
-| Mercoledì    | 9:00 - 12:30      |
-| Giovedì      | 15:30 - 18:30     |
-| Venerdì      | 9:00 - 12:30      |
-| Sabato       | Chiuso            |
-| Domenica     | Chiuso            |
+| Giorno       | Mattina           | Pomeriggio           |
+| ------------ | ----------------- | -------------------- |
+| Lunedì       | 09:30 - 12:30     | 15:30 - 18:30        |
+| Martedì      | 09:30 - 12:30     | 15:30 - 18:30        |
+| Mercoledì    | 09:30 - 12:30     | 15:30 - 18:30        |
+| Giovedì      | 09:30 - 12:30     | 15:30 - 18:30        |
+| Venerdì      | 09:30 - 12:30     | Chiuso               |
+| Sabato       | Chiuso            | Chiuso               |
+| Domenica     | Chiuso            | Chiuso               |
 
 ## Indirizzo
 

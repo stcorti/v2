@@ -28,7 +28,7 @@ bodyClass: "page-teams"
   <div class="row">
     {% assign promoted_teams = site.team | where: "promoted", true | sort:
     "weight" %} {% for team in promoted_teams %}
-    <div class="col-12 col-md-6 mb-2">
+    <div class="col-12 col-md-12 mb-2">
       <div class="team team-summary team-summary-large">
         {% if team.image %}
         <div class="team-image">
