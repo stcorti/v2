@@ -5,11 +5,11 @@ description: Chi siamo
 bodyClass: page-about
 carousels:
   - images:
-      - image: /images/carousel/carousel01.jpg
-      - image: /images/carousel/carousel02.jpg
-      - image: /images/carousel/carousel03.jpg
-      - image: /images/carousel/carousel04.jpg
-      - image: /images/carousel/carousel05.jpg
+      - image: /v2/images/carousel/carousel01.jpg
+      - image: /v2/images/carousel/carousel02.jpg
+      - image: /v2/images/carousel/carousel03.jpg
+      - image: /v2/images/carousel/carousel04.jpg
+      - image: /v2/images/carousel/carousel05.jpg
 ---
 
 Fondato nel 1998 dal Dott. Giorgio Corti, un professionista di lunga esperienza nel settore della consulenza commerciale, il nostro studio si è guadagnato la fiducia e il rispetto della clientela grazie a un impegno costante nell'offrire servizi di alta qualità e soluzioni personalizzate.
