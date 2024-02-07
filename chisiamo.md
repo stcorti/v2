@@ -1,14 +1,23 @@
 ---
-title: Chi siamo
+title: CHI SIAMO
 layout: page
 description: Chi siamo
 bodyClass: page-about
+carousels:
+  - images:
+      - image: /images/carousel/carousel01.jpg
+      - image: /images/carousel/carousel02.jpg
+      - image: /images/carousel/carousel03.jpg
+      - image: /images/carousel/carousel04.jpg
+      - image: /images/carousel/carousel05.jpg
 ---
 
-Lo studio nasce nel 1998 quando il titolare Dott. Giorgio Corti si è abilitato alla professione, infatti dal 1/6/1998 risulta iscritto all’Ordine dei Dottori Commercialisti ed Esperti contabili di Pisa.
+Fondato nel 1998 dal Dott. Giorgio Corti, un professionista di lunga esperienza nel settore della consulenza commerciale, il nostro studio si è guadagnato la fiducia e il rispetto della clientela grazie a un impegno costante nell'offrire servizi di alta qualità e soluzioni personalizzate.
 
-Lo studio si è specializzato nel tempo nell’attività tipica dell’ambito commerciali con consulenze fiscale, contabile e tributaria.
+Il Dott. Giorgio Corti ha ottenuto l'abilitazione alla professione di dottore commercialista ed esperto contabile nel Giugno 1998, e da allora si è dedicato con passione e competenza alla consulenza fiscale, contabile e tributaria per una vasta gamma di clienti.
 
-La clientela dello studio è principalmente privati cittadini, imprese individuali, società, cooperative ed associazioni.
+Lo Studio Corti si distingue per la sua specializzazione nell'ambito commerciale, offrendo consulenze mirate per privati cittadini, imprese individuali, società, cooperative ed associazioni. Che si tratti di pianificare la contabilità aziendale, ottimizzare la gestione fiscale o affrontare questioni tributarie complesse, il nostro team è pronto ad affrontare ogni sfida con competenza e dedizione.
 
-Il titolare svolge anche l’attività di revisore legale.
+Oltre ai servizi di consulenza, il Dott. Giorgio Corti svolge anche il ruolo di revisore legale, garantendo trasparenza e conformità agli standard contabili per le aziende che richiedono questa figura professionale.
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}

@@ -1,18 +1,18 @@
-baseurl: '/'
+baseurl: "/"
 permalink: pretty
-title: 'Studio Dott. Giorgio Corti'
-keywords: 'studio, corti, pisa, commercialista, revisioni, contabilita, tasse, azienda, cooperative, successioni'
-description: 'Sito dello studio Dott. Giorgio Corti - Commercialista e Revisore legale - Pisa, Italia'
+title: "STUDIO DOTT. GIORGIO CORTI"
+description: "Studio Dott. Giorgio Corti - Commercialista e Revisore legale"
+keywords: "studio, corti, pisa, commercialista, revisioni, contabilita, tasse, azienda, cooperative, successioni"
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/logo-mobile.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
+  desktop: "images/logo/logo.png"
   desktop_height: "32px"
-  desktop_width: "120px"
+  desktop_width: "214px"
 
-home: 
+home:
   limit_services: 6
 
 collections:

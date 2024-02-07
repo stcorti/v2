@@ -1,14 +1,14 @@
 main:
-  - name: "Chi siamo"
+  - name: "CHI SIAMO"
     url: "/chisiamo/"
     weight: 2
-  - name: "Team"
+  - name: "TEAM"
     url: "/team/"
     weight: 3
-  - name: "Servizi"
+  - name: "SERVIZI"
     url: "/servizi/"
     weight: 4
-  - name: "Contatti"
+  - name: "CONTATTI"
     url: "/contatti/"
     weight: 5
 
@@ -17,5 +17,5 @@ footer:
     url: "/"
     weight: 1
   - name: "Contatti"
-    url: "/contact/"
+    url: "/contatti/"
     weight: 2
