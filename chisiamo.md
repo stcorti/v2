@@ -14,7 +14,7 @@ carousels:
 
 Fondato nel 1998 dal Dott. Giorgio Corti, un professionista di lunga esperienza nel settore della consulenza commerciale, il nostro studio si è guadagnato la fiducia e il rispetto della clientela grazie a un impegno costante nell'offrire servizi di alta qualità e soluzioni personalizzate.
 
-Il Dott. Giorgio Corti ha ottenuto l'abilitazione alla professione di dottore commercialista ed esperto contabile nel Giugno 1998, e da allora si è dedicato con passione e competenza alla consulenza fiscale, contabile e tributaria per una vasta gamma di clienti.
+Il Dott. Giorgio Corti ha ottenuto l'abilitazione alla professione nel Giugno 1998 e da tale data risulta inscritto all’Ordine dei Dottori Commercialisti ed Esperti Contabili della Provincia di Pisa. Si è dedicato con passione e competenza alla consulenza fiscale, contabile e tributaria per una vasta gamma di clienti.
 
 Lo Studio Corti si distingue per la sua specializzazione nell'ambito commerciale, offrendo consulenze mirate per privati cittadini, imprese individuali, società, cooperative ed associazioni. Che si tratti di pianificare la contabilità aziendale, ottimizzare la gestione fiscale o affrontare questioni tributarie complesse, il nostro team è pronto ad affrontare ogni sfida con competenza e dedizione.
 
