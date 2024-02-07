@@ -1,4 +1,6 @@
 baseurl: "/"
+url: https://stcorti.github.io/v2/
+ogimage: /v2/images/headers/header-home.jpg
 permalink: pretty
 title: "STUDIO DOTT. GIORGIO CORTI"
 description: "Studio Dott. Giorgio Corti - Commercialista e Revisore legale"
