@@ -4,10 +4,7 @@ layout: contact
 description: Contatti
 ---
 
-
-# **Pisa**
-
-## Caselle Email
+# Caselle Email
 
 Siamo a disposizione per rispondere a tutte le vostre domande e richieste di informazioni tramite le segueti caselle email:
 * [segreteria@stcorti.it](mailto:segreteria@stcorti.it)
@@ -15,12 +12,12 @@ Siamo a disposizione per rispondere a tutte le vostre domande e richieste di inf
 * [revisioni@stcorti.it](mailto:revisioni@stcorti.it)
 * [contabilita@stcorti.it](mailto:contabilita@stcorti.it)
 
-## Contatti Telefonici
+# Contatti Telefonici
 
 * Telefono: [050/503754](tel:+39050503754)
 * Fax: [050/2207731](tel:+390502207731)
 
-## Orari di Apertura
+# Orari di Apertura
 
 Lo studio è aperto al pubblico nel seguente orario, **previo appuntamento**:
 
@@ -36,7 +33,7 @@ Lo studio è aperto al pubblico nel seguente orario, **previo appuntamento**:
 
 In occasione delle festività e del periodo di ferie estivo, invitiamo a contattare direttamente lo studio per verificare i giorni di apertura. 
 
-## Indirizzo
+# Indirizzo
 
 [Via G. Di Balduccio 1 – 56122 Pisa](https://maps.app.goo.gl/geLkk9JaTqcXUK5k9)
 

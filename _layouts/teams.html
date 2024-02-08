@@ -42,9 +42,7 @@ bodyClass: "page-teams"
         </div>
         {% endif %}
         <div class="team-meta">
-          <h2 class="team-name">
-            <a href="{{ team.url | relative_url }}">{{ team.title }}</a>
-          </h2>
+          <h2 class="team-name">{{ team.title }}</h2>
           <p class="team-description">{{ team.jobtitle }}</p>
           {% if team.linkedinurl %}
           <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer"
@@ -52,7 +50,7 @@ bodyClass: "page-teams"
           >
           {% endif %}
         </div>
-        <div class="team-content">{{ team.excerpt }}</div>
+        <div class="team-content">{{ team.content }}</div>
       </div>
     </div>
     {% endfor %}
