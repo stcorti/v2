@@ -6,5 +6,4 @@ promoted: true
 weight: 3
 ---
 
-Specializzata nella contabilità delle imprese, professionisti, regimi forfettari
-
+Specializzata nella contabilità delle imprese, dichiarazioni dei redditi delle persone fisiche e società

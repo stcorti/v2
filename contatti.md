@@ -34,6 +34,8 @@ Lo studio è aperto al pubblico nel seguente orario, **previo appuntamento**:
 | Sabato       | Chiuso            | Chiuso               |
 | Domenica     | Chiuso            | Chiuso               |
 
+In occasione delle festività e del periodo di ferie estivo, invitiamo a contattare direttamente lo studio per verificare i giorni di apertura. 
+
 ## Indirizzo
 
 [Via G. Di Balduccio 1 – 56122 Pisa](https://maps.app.goo.gl/geLkk9JaTqcXUK5k9)
