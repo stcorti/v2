@@ -6,4 +6,4 @@ promoted: true
 weight: 4
 ---
 
-Specializzata nella contabilità delle imprese, procedure concorsuali, cooperative, successioni
+Specializzata nella contabilità delle imprese, procedure concorsuali, cooperative, successioni.

@@ -6,4 +6,5 @@ promoted: true
 weight: 3
 ---
 
-Specializzata in dichiarazione dei redditi per persone fisiche e società
+Specializzata nella contabilità delle imprese, professionisti, regimi forfettari
+
